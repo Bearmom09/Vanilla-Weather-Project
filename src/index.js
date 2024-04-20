@@ -90,7 +90,7 @@ function displayForecast(response) {
                 )}°</strong></div>
                 <div class="weather-forecast-temperature"><strong>${Math.round(
                   day.temperature.minimum
-                )}°<strong></div>
+                )}°</strong></div>
               </div>
             </div>
             `;
